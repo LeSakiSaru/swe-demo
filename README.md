@@ -7,6 +7,7 @@ This is a list:
 * Item 1
 * Item 2
 * Third item
+* Some local item
 
 ## This is another subheading
 
